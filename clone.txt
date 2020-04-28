@@ -1,4 +1,7 @@
 Hi This is Mohan here I have done git clone from remote repository
 instead of initialisation,remote connection and pull request then I would like 
 to do push this file to remote repository by using push command.
-i.e git push -u variable_name branch_name
+i.e git push -u variable_name branch_name.
+x=10
+This file is in master branch
+conflicts-1
